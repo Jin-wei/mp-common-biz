@@ -1,0 +1,22 @@
+{
+    "apiHost":"39.105.213.26:16669",
+    "apiExternalDosUrl": "http://39.105.213.26:16669",
+    "logLevel":"DEBUG",
+    "logFileFullName":"/var/log/jinjiechengbiz/common-biz.log",
+    "logBackups":10,
+    "logMaxSize":2048000,
+    "mysqlUser":"commonbiz",
+    "mysqlPass":"Mission94539",
+    "mysqlDB":"common_biz",
+    "mysqlHost":"rds8ys63039798x4d7w1.mysql.rds.aliyuncs.com",
+    "loginModuleHost":"39.105.213.26",
+    "loginModulePort":18091,
+    "loginModuleProtocol":"http",
+    "elasticUrl": "127.0.0.1:9200",
+    "elasticLogLevel":"info",
+    "defaultCustomerBizId":100027,
+    "authTenant":"jjc",
+    "authUserName":"jjcadmin",
+    "authPassword":"jjcadmin",
+    "maxAge":2592000
+}

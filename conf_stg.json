@@ -1,0 +1,22 @@
+{
+    "apiHost":"59.111.97.208:16669",
+    "apiExternalDosUrl": "http://59.111.97.208:16669",
+    "logLevel":"DEBUG",
+    "logFileFullName":"/var/log/jinjiechengbiz/common-biz.log",
+    "logBackups":10,
+    "logMaxSize":2048000,
+    "mysqlUser":"jin",
+    "mysqlPass":"jiecheng",
+    "mysqlDB":"jinjiecheng_biz",
+    "mysqlHost":"127.0.0.1",
+    "loginModuleHost":"59.111.97.208",
+    "loginModulePort":18091,
+    "loginModuleProtocol":"http",
+    "elasticUrl": "127.0.0.1:9200",
+    "elasticLogLevel":"info",
+    "defaultCustomerBizId":100039,
+    "authTenant":"jjc",
+    "authUserName":"jjcadmin",
+    "authPassword":"jjcadmin",
+    "maxAge":2592000
+}

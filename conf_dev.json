@@ -1,0 +1,22 @@
+{
+    "apiHost":"127.0.0.1:8080",
+    "apiExternalDosUrl": "http://localhost:8080",
+    "logLevel":"DEBUG",
+    "logFileFullName":"../common-biz.log",
+    "logBackups":10,
+    "logMaxSize":2048000,
+    "mysqlUser":"biz",
+    "mysqlPass":"wise",
+    "mysqlDB":"common_biz",
+    "mysqlHost":"127.0.0.1",
+    "loginModuleHost":"localhost",
+    "loginModulePort":8091,
+    "loginModuleProtocol":"http",
+    "elasticUrl": "127.0.0.1:9200",
+    "elasticLogLevel":"trace",
+    "defaultCustomerBizId":2,
+    "authTenant":"jjc",
+    "authUserName":"jjcadmin",
+    "authPassword":"jjcadmin",
+    "maxAge":0
+}
